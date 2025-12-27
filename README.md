@@ -1,4 +1,4 @@
-                                                            ## Yash Kalra
+                                                            # Yash Kalra
 
 # 💫 About Me:
 I’m currently working on:<br>AI, Data Science, and Software Engineering projects, with a focus on real-world problem solving<br><br>👯 I’m looking to collaborate on:<br>AI/ML, Data Science, Open-Source projects, and innovative tech solutions<br><br>🤝 I’m looking for help with:<br>Advanced machine learning concepts, scalable systems, and industry-level best practices<br><br>🌱 I’m currently learning:<br>Machine Learning, Data Structures & Algorithms, Cloud Technologies, and AI applications<br><br>💬 Ask me about:<br>Python, Data Science, AI projects, GitHub workflows, and student tech life<br><br>⚡ Fun fact:<br>I enjoy turning complex problems into simple, efficient solutions 🚀
